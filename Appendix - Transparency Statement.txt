@@ -1,0 +1,4 @@
+I confirm that the code submitted is my own work. 
+I used AI assistance (ChatGPT) only to help align the style of my test plan 
+with my main program and to suggest how best to incorporate testing. 
+All coding logic, implementation, and program content were written by me, Leah Thorpe.
